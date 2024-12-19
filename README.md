@@ -13,4 +13,4 @@ React: The front-end framework for building the component-based structure.
 Material-UI: A popular React UI library for pre-designed components.
 React Hooks: Used for managing component state (useState) and accessing the DOM (useRef).
 JavaScript: The primary programming language for scripting.
-CSS-in-JS (sx prop): Used for styling components in a consistent and reusable way.
+CSS-in-JS (sx prop): Used for styling components in a consistent and reusable way."# ENEXIO-Project" 
